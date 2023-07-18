@@ -13,6 +13,9 @@ Welcome to the Tech Optimum Open Software Engineering Internships repository for
 | Wabtec | [Engineering Intern](https://www.indeed.com/jobs?q=summer+2024+software+engineering+internship&start=10&pp=gQAPAAAAAAAAAAAAAAACCVSYfgAPAQAyM7WDdwa30M5jlORoAAA&vjk=4cdc301c7f1cdf1b) | Erie, Pennsylvania | ✅ | July 7, 2023 |
 | Northrop Grumman | [Software Engineer Intern](https://www.northropgrumman.com/jobs/administrative-services/intern/united-states-of-america/california/redondo-beach/r10119483/2024-software-engineer-intern-redondo-beach-ca/?utm_source=indeed-organic&utm_medium=jobboard&utm_audience=null&utm_content=null&utm_format=null&utm_code=JB-17946&source=JB-17946) | Redondo Beach, California | ✅ | July 18, 2023 |
 | Sensata | [Software Engineer Intern](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern--Summer-2024_IRC90446) | Attleboro, Massachusetts | ✅ | July 18, 2023 |
+| ManTech | [AI - ML Intern](https://mantech.wd1.myworkdayjobs.com/External/job/USA-Remote-Work/AI---ML-Intern_R37149-1?source=LinkedIn) | Remote | ✅ | July 18, 2023 |
+| Bamboo Health | [Software Engineer Intern](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Not specified | ✅ | July 18, 2023 |
+| CertiK | [Software Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | Not specified | ✅ | July 18, 2023 |
 
 > Note: Please report any errors to team@techoptimum.org
 
