@@ -16,6 +16,7 @@ Welcome to the Tech Optimum Open Software Engineering Internships repository for
 | ManTech | [AI - ML Intern](https://mantech.wd1.myworkdayjobs.com/External/job/USA-Remote-Work/AI---ML-Intern_R37149-1?source=LinkedIn) | Remote | ✅ | July 18, 2023 |
 | Bamboo Health | [Software Engineer Intern](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Not specified | ✅ | July 18, 2023 |
 | CertiK | [Software Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | Not specified | ✅ | July 18, 2023 |
+| Mercedez Benz | [Software Engineer Data Intern](https://www.linkedin.com/jobs/view/software-engineering-intern-data-at-mercedes-benz-research-development-north-america-inc-3662252669/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Sunnyvale, CA | ✅ | July 20, 2023 |
 
 > Note: Please report any errors to team@techoptimum.org
 
