@@ -17,6 +17,13 @@ Welcome to the Tech Optimum Open Software Engineering Internships repository for
 | Bamboo Health | [Software Engineer Intern](https://bamboo-health.rippling-ats.com/job/630181/software-engineer-intern) | Not specified | ✅ | July 18, 2023 |
 | CertiK | [Software Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | Not specified | ✅ | July 18, 2023 |
 | Mercedez Benz | [Software Engineer Data Intern](https://www.linkedin.com/jobs/view/software-engineering-intern-data-at-mercedes-benz-research-development-north-america-inc-3662252669/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Sunnyvale, CA | ✅ | July 20, 2023 |
+| Bank of America | [Global Technology Summer Analyst Program 2024](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-91c0e92d74a1/candidate/so/pm/1/pl/1/opp/10165-Global-Technology-Summer-Analyst-Program-2024/en-GB) | Not specified | ✅ | July 23, 2023 |
+| Accenture | [Software Engineering Intern](https://www.accenture.com/us-en/careers/jobdetails?id=R00155153_en) | Tampa, Florida | ✅ | July 23, 2023 |
+| PDT partners | [Software Engineering Intern](https://boards.greenhouse.io/pdtpartners/jobs/4423823) | New York City | ✅ | July 23, 2023 |
+| Panasonic | [Software Electrical Engineer Intern](https://careers.na.panasonic.com/careers/software-electrical-engineer-intern) | The Colony, Texas | ✅ | July 23, 2023 |
+| PepsiCo | [Software Engineer Intern](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US) | New York City & Plano, Texas | ✅ | July 23, 2023 |
+
+Please note that the status "✅" indicates that the internship positions are available. For more details and to apply, you can visit the respective links provided.
 
 > Note: Please report any errors to team@techoptimum.org
 
