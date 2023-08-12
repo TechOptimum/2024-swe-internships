@@ -25,7 +25,7 @@ Welcome to the Tech Optimum Open Software Engineering Internships repository for
 | KAYAK | [Java Engineering Intern - Adtech](https://www.kayak.com/careers/details/1002531) | Not specified | ✅ | July 23, 2023 |
 | HackerRank | [Solutions Engineer Intern](https://boards.greenhouse.io/hackerrank/jobs/3460895) | Not specified | ✅ | July 23, 2023 |
 | Wayfair | [Machine Learning Science – Internship/Working Student (m/f/x)](https://www.wayfaircareers.com/jobs/oWMwdfw5?lang=en-us) | Not specified | ✅ | July 23, 2023 |
-
+| Amazon | [Software Engineer Intern](https://g.co/kgs/eUduzT) | NYC/Seattle | ✅ | August 11, 2023 |
 
 > Note: Please report any errors to team@techoptimum.org
 
